@@ -28,7 +28,8 @@ a {
 }
 
 #sep {
-    height: 75px;
+    width: 80px;
+    padding-right: 25px;
 }
 
 .margin {
@@ -58,11 +59,6 @@ a {
     /* background: linear-gradient(#CD93C7, #979DF1); */
     background: url(https://i.pinimg.com/originals/00/ea/a2/00eaa28424ca193dd9b3d1da239fb0c4.jpg);
     color: #ffffff;
-}
-
-.bg-4 {
-    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwE1oRnsWPMErZ9Q9WYhqAU4_-qqI7xWWlWQ&usqp=CAU);
-    color: #fff;
 }
 
 .container-fluid {
