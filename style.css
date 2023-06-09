@@ -16,9 +16,12 @@ a {
     color: #2e72a1;
 }
 
-#logo, .project-img {
+#logo {
     max-height: 300px;
     border-radius: 100%;
+}
+.project-img {
+    max-height: 300px;
 }
 
 #fork img{
@@ -81,4 +84,7 @@ a {
 }
 .word {
     color: black;
+}
+.white {
+    background-color: white;
 }
