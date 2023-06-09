@@ -18,6 +18,7 @@ a {
 
 #logo, .project-img {
     max-height: 300px;
+    border-radius: 100%;
 }
 
 #fork img{
@@ -35,12 +36,12 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
+    background: url(https://cdn.shopify.com/s/files/1/0565/7080/6458/collections/marble-geometry-wallpaper-mural.jpg?v=1660198030);
     color: #555555;
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
+    background: linear-gradient(#F6FCB8, #FFB600);
     color: #ffffff;
 }
 
@@ -54,12 +55,13 @@ a {
 }
 
 .bg-3 {
-    background-color: #000000; /* Black */
+    /* background: linear-gradient(#CD93C7, #979DF1); */
+    background: url(https://i.pinimg.com/originals/00/ea/a2/00eaa28424ca193dd9b3d1da239fb0c4.jpg);
     color: #ffffff;
 }
 
 .bg-4 {
-    background-color: #343a40; /* Dark Gray */
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwE1oRnsWPMErZ9Q9WYhqAU4_-qqI7xWWlWQ&usqp=CAU);
     color: #fff;
 }
 
@@ -80,4 +82,7 @@ a {
 
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
+}
+.word {
+    color: black;
 }
