@@ -28,8 +28,8 @@ a {
 }
 
 #sep {
-    width: 80px;
-    padding-right: 25px;
+    width: 30px;
+    /* padding-right: 25px; */
 }
 
 .margin {
